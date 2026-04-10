@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Easter Quest favicon">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="70%">
+      <stop offset="0%" stop-color="#fff6df" />
+      <stop offset="45%" stop-color="#ffd979" />
+      <stop offset="100%" stop-color="#d89b2d" />
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#fff8e7" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#fff8e7" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="28" fill="#0b0d14" />
+  <circle cx="64" cy="64" r="46" fill="url(#glow)" opacity="0.35" />
+
+  <g transform="translate(64 67)">
+    <path d="M0-36C19-36 31-18 31 4c0 21-12 33-31 33S-31 25-31 4C-31-18-19-36 0-36Z" fill="url(#bg)"/>
+    <path d="M-17-6 0-15 17-6" fill="none" stroke="#6f4314" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-18 5-6-3 2 8 13-2 18 6" fill="none" stroke="#6f4314" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="-10" cy="-14" rx="6" ry="12" fill="#fff7e6" opacity="0.65" transform="rotate(-18)"/>
+  </g>
+
+  <g fill="#f5d38a">
+    <circle cx="28" cy="28" r="2.5"/>
+    <circle cx="100" cy="30" r="2"/>
+    <circle cx="102" cy="96" r="2.5"/>
+    <circle cx="26" cy="98" r="2"/>
+  </g>
+</svg>
