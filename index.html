@@ -1037,7 +1037,7 @@
       const progress = (state.unlocked.size / moods.length) * 100;
       ui.storyLabel.textContent = t('storyLabel');
       ui.storyProgressBar.style.width = `${progress}%`;
-      ui.storyProgressText.textContent = state.lang === 'ro' ? `${state.unlocked.size} / ${moods.length} căi trezite` : `${state.unlocked.size} / ${moods.length} paths awakened`;
+      ui.storyProgressText.textContent = state.lang === 'ro' ? `${state.unlocked.size} / ${moods.length} căi descoperite` : `${state.unlocked.size} / ${moods.length} paths awakened`;
     }
 
     function renderAchievements() {
