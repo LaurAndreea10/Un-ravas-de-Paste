@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-gold?style=for-the-badge)](https://your-username.github.io/your-repo/)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/license-MIT-gold?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/license-MIT-gold?style=for-the-badge)](#)E
 
 An interactive Easter greeting built with **HTML + CSS + JavaScript**, featuring a cinematic dark mode, mobile-first design, and immersive mini-games.
 
@@ -30,7 +30,7 @@ An interactive Easter greeting built with **HTML + CSS + JavaScript**, featuring
 
 ## 🎮 Live Experience
 
-👉 https://your-username.github.io/your-repo/
+👉https://laurandreea10.github.io/Un-ravas-de-Paste/
 
 ---
 
